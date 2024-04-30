@@ -1,5 +1,5 @@
 # Sorted Integer Checker
-A simple program to check if a list of integers is sorted in ascending order.
+A program to check if a list of integers is sorted in ascending order.
 
 ## Usage
   -  Input a list of integers separated by spaces (e.g. "1 3 3 7")
